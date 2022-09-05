@@ -22,4 +22,3 @@ else
 {
     Console.WriteLine(number);
 }
-
