@@ -8,4 +8,3 @@ int thirdNumber(int number)
 
 var input = Convert.ToInt32(Console.ReadLine());   // int.TryParse(Console.ReadLine(), out int input); -вариант для обработки неверного ввода(например, текста)
 Console.WriteLine($"Вторая цифра - {thirdNumber(input)}");
-
