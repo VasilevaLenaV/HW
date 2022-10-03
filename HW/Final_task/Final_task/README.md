@@ -19,4 +19,4 @@
 
 
 Решение на примере блок-схемы:
-![FinalTask.drawio]
+![FinalTask.drawio(1)]
